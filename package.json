@@ -41,7 +41,7 @@
     "bfx-hf-models": "^2.1.0",
     "bfx-hf-util": "^1.0.1",
     "bitfinex-api-node": "^4.0.0",
-    "knex": "^0.19.5",
+    "knex": "^3.1.0",
     "lodash": "^4.17.10"
   },
   "devDependencies": {
@@ -62,6 +62,6 @@
     "mocha": "^6.2.0",
     "socks-proxy-agent": "^4.0.2",
     "standard": "^14.2.0",
-    "webpack": "^2.4.1"
+    "webpack": "^5.94.0"
   }
 }
